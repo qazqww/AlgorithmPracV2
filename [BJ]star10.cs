@@ -1,4 +1,6 @@
-﻿using System;
+﻿// https://www.acmicpc.net/problem/2447
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
